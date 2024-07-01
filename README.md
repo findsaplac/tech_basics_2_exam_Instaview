@@ -29,7 +29,7 @@ have fun
 1. Clone my repository in a location of your choice
 
 ```
-git clone ...
+git clone https://github.com/findsaplac/tech_basics_2_exam_Instaview.git
 ```
 
 2. You should find my repository in your directory. You can change the directory in your terminal to where the cloned code is located:
