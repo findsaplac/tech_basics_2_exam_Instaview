@@ -1,0 +1,2 @@
+index,username,password,profile_image_path,title,bio,url,number_posts,number_followers,number_following
+0,test,test,data/imgs/local_user/account/default.png,title...,bio...,url...,0,0,0
